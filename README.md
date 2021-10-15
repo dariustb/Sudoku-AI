@@ -84,6 +84,6 @@ Project inspired by the famous game, *Sudoku*, and other simple board games to i
 
 ## Contact
 S u d o k u &nbsp; A I <br>
-by [Darius Brown](https://dariusbrown.dev)
-Created: September 19, 2019 - September 29, 2019
+by [Darius Brown](https://dariusbrown.dev) <br>
+Created: September 19, 2019 - September 29, 2019 <br>
 Questions or comments? Feel free to contact me [via email](mailto:dariustb@tech-center.com)!
