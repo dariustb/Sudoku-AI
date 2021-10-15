@@ -50,10 +50,10 @@ When you run the code, the app will prompt you to enter an initial board to solv
 0 0 0 0 0 0 0 0 0 
 0 0 0 0 0 0 0 0 0 
 ```
-All zeros will be considered empty spaces and the current puzzle will print to screen  like so:
+All zeros will be considered empty spaces and the current puzzle will print to screen  like so: <br>
 ![Start State](https://i.ibb.co/RDzxw67/Sudoku-AI-Console-App-Start-State.png)
 
-At this point the AI will start and solve the board if it's solvable. Once finished, the program will display the board with the empty spaces filled.
+At this point the AI will start and solve the board if it's solvable. Once finished, the program will display the board with the empty spaces filled. <br>
 ![Solved State](https://i.ibb.co/F67txvQ/Sudoku-AI-Console-App-Solved-State.png)
 
 If the board is impossible to solve, then an error message ``Error: Board is unsolvable`` will be shown.
